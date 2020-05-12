@@ -10,4 +10,4 @@
 - ML pipelines (combining transformers and estimators)
 - Model selection and tuning (train/validation split, k-fold cross validation, parameter grid/evaluator)
 
-Source: [[Udacity]](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)
+Course source: [[Udacity]](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)
